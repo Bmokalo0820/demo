@@ -1,0 +1,21 @@
+The Analytic Theory of Heat
+In 1822, Fourier published his work on heat flow in Théorie analytique de la chaleur (The Analytical 
+Theory of Heat),[8] in which he based his reasoning on Newton's law of cooling, namely, that the flow
+ of heat between two adjacent molecules is proportional to the extremely small difference of their temperatures. 
+ This book was translated,[9] with editorial 'corrections',[10] into English 56 years later by Freeman (1878).[11] The book was
+ also edited, with many editorial corrections, by Darboux and republished in French in 1888.[10]
+
+There were three important contributions in this work, one purely mathematical, two essentially physical. 
+In mathematics, Fourier claimed that any function of a variable, whether continuous or discontinuous, 
+can be expanded in a series of sines of multiples of the variable. Though this result is not correct without 
+additional conditions, Fourier's observation that some discontinuous functions are the sum of infinite series
+ was a breakthrough. The question of determining when a Fourier series converges has been fundamental for centuries. 
+ Joseph-Louis Lagrange had given particular cases of this (false) theorem, and had implied that the method was general, 
+ but he had not pursued the subject. Peter Gustav Lejeune Dirichlet was the first to give a satisfactory demonstration of 
+ it with some restrictive conditions. This work provides the foundation for what is today known as the Fourier transform.
+
+One important physical contribution in the book was the concept of dimensional homogeneity in equations; i.e.
+ an equation can be formally correct only if the dimensions match on either side of the equality; Fourier made important 
+ contributions to dimensional analysis.[12] The other physical contribution was Fourier's proposal of his partial differential 
+ equation for conductive diffusion of heat. This equation is now taught to every student of mathematical physics.
+ love it.
